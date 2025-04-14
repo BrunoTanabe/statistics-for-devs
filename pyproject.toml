@@ -1,0 +1,15 @@
+[project]
+name = "statistics-for-devs"
+version = "0.1.0"
+description = "Desenvolvimento de base sólida em Estatística Descritiva para Devs, essencial para análise de dados, insights e padrões. Isso impacta diretamente na escolha de modelos de machine learning, ajuste de parâmetros e avaliação de desempenho."
+readme = "README.md"
+authors = [
+    { name = "Bruno Tanabe", email = "bruno.tanabe@gfinnovation.com.br" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.1",
+    "pandas>=2.2.3",
+    "scipy>=1.15.2",
+]
